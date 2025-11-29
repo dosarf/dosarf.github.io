@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>dosarf - hungarian</title>
+    <link rel="stylesheet" href="../normalize.css" type="text/css"/>
+    <link rel="stylesheet" href="../typebase.css" type="text/css"/>
+    <link rel="stylesheet" href="../simple.css" type="text/css"/>
+    <style>
+    table {
+      border-collapse: collapse;
+    }
+
+    table, th, td {
+      border: 1px solid black;
+    }
+
+    th, td {
+      padding: 5px !important;
+      text-align: left;
+    }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h2>Orgona kották</h2>
+    </header>
+    <main>
+      <!-- CONTENT
+      <h2>Orgona kották</h3>
+      <p>
+        <ul>
+          <li><a href="zeneovi.pdf">zeneovi.pdf</a></li>
+          <li><a href="zenesuli.pdf">zenesuli.pdf</a></li>
+        </ul>
+      </p>
+      CONTENT -->
+    </main>
+  </body>
+</html>
